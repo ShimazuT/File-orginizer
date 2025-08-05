@@ -9,7 +9,7 @@ This app organizes files in a selected folder by extension, moves them to subfol
 - GUI using Tkinter
 - Error handling
 
-## here is a code
+## Here is a code
 ```bash
 
 import os
